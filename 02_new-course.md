@@ -17,5 +17,6 @@ I would like to add a course before AP CSA or AP CSP. The Computer Science Disco
 Sequence: Computer Science Discoveries &rarr; Intro to Computer Science Programming &rarr; AP CSA / AP CSP 
 
 New Course: Intro to Computer Science Programming
+
 This course is an introduction to programming. This will be a full year course, and will be open to students in grade 10-12. 
 Students will take this course before they take AP Computer Science A. Students are introduced to computer programming concepts, such as loop structures, conditional statements and arrays. Object-oriented concepts such as inheritance, abstract classes and interfaces will be introduced. Students will also delve into web applications by writing applets. 
