@@ -21,7 +21,7 @@ Snap! is a block-based programming language. Syntax and simulation are very stra
 - Students can create their own C-shaped blocks, as well as functions. This provides students with a lot more flexibility and freedom when creating their projects. 
 
 ### Weaknesses? How would you mitigate the weaknesses in the class?
-
+- It does not offer a progression to text-based programming. 
 
 ### Why did you select this language for this class?
 I chose this language for AP CSP because of the simplicity of blocked-based programming language. It makes coding easier. It is user friendly for students who have no prior coding experiences, and they can focuse on the logic of their codes and does not need to learn difficult concepts which the high-level programming languages require. Students can quickly learn how to run programs and unleash their creativity. 
