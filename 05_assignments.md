@@ -1,8 +1,7 @@
 - Develop two assignments that are different types for your unit plan.
 - Describe the assignment, including student facing instructions in a markdown file. Save this file in your own personal work repository.
 
-# Unit Plan: Processing Game Design 
-Students will create a 2D Platformer Game, a 2D Tile-Based Game or an Educational App Game using the Processing IDE. 
+# Post AP Exam Unit: Processing Game Design 
 
 ## Assignment #1: Game Design Research
 #### Assignment Timeline:
@@ -26,7 +25,17 @@ Your team is researching digital games for a client. You need to reasearch their
 
 
 
-## Assignment #2: Game Design Research
+## Assignment #2: Creating a Game
 #### Assignment Timeline:
-- This assignment will be given on the first day of the Unit.
-- Students will have two days in class to complete this assignment with their group. 
+- This is a summative assignment(final product) of the Post AP Exam Unit. 
+- Students will have 3 - 4 weeks to complete this summative assignment. 
+
+#### Assignment Goals:
+- Students will develope a 2D Platformer Game, a 2D Tile-Based Game or an Educational App Game for their target user using the Processing IDE. 
+
+#### Student Facing Assignment Description:
+**Let the Games Begin!** Your team's job is to create a digital game for your target user from scratch using a coding environment called Processing. 
+
+**Description**: The program should be a "game" dedicated to your target user. It should be interactive, PG, and original. Some suggestions might be educational games, farm stories, or card games, and etc. 
+
+**Beta Testing**: This project will be beta tested by your classmate; therefore, everyone is required to conduct beta testing. Each of your classmates will have the opportunity to evaluate your game. All comments in the evaluation should be constructive. Before the assingment is due, your team will have the opportunity to review the beta testing comments and make adjustments to your program. 
